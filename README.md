@@ -18,7 +18,6 @@ With Magento 2 Blog, you can create any number of posts/articles, group them per
 * Ability to display related blog posts on the product page
 * SEO optimized: permalinks, SEO-friendly URLs, open graph (OG), meta title, description, and keyword
 * Support multiple comment types: Disqus, Facebook, and custom comments
-* Manage blog posts, categories, tags, and comments from the admin panel. 
 * Mobile-friendly
 * Support multiple-stores
 
