@@ -1,6 +1,6 @@
 # Magento 2 Blog Extension
 
-[Magento 2 Blog](https://www.ulmod.com/magento-2-blog-pro-extension.html)  is a Magento 2 extension that allows you to create any number of blog posts/articles to communicate with your visitors and increase traffic to your site.
+[Magento 2 Blog](https://www.ulmod.com/magento-2-blog-pro-extension.html)  is a Magento 2 extension that allows you to create any number of blog posts/articles to communicate with your visitors and increase traffic at your site.
 
 With Magento 2 Blog, you can create any number of posts/articles, group them per category or tag, and display them at the storefront.
 
